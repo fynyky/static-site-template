@@ -1,0 +1,1 @@
+{"mappings":"AAAAA,QAAQC,IAAI","sources":["src/index.mjs"],"sourcesContent":["console.log(\"Hello from index.mjs in Static Site Template\");"],"names":["console","log"],"version":3,"file":"index.066c4ea7.js.map"}
