@@ -2,9 +2,9 @@
   "name": "static-site-template",
   "version": "1.0.0",
   "description": "Template for building static sites using parcel",
-  "main": "index.js",
   "scripts": {
-    "build": "bash scripts/build.sh"
+    "build": "bash scripts/build.sh",
+    "dev": "bash scripts/dev.sh"
   },
   "repository": {
     "type": "git",
